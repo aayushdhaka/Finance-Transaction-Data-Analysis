@@ -1,0 +1,121 @@
+Transaction_ID,Date,Account_Type,Transaction_Type,Category,Amount_EUR,Payment_Method,Balance_After_Transaction,Month,Year,Month_Name,Cash_Flow,High_Value
+5001,01/01/2024,Credit,Debit,Salary,1956.89,Card,7183.57,1,2024,January,Expense,Yes
+5002,02/01/2024,Savings,Credit,Transport,2111.86,Cash,4457.76,1,2024,January,Income,Yes
+5003,03/01/2024,Credit,Credit,Rent,2391.46,Card,7947.24,1,2024,January,Income,Yes
+5004,04/01/2024,Credit,Credit,Salary,2672.22,Cash,1053.47,1,2024,January,Income,Yes
+5005,05/01/2024,Savings,Debit,Rent,1027.23,Card,4653.91,1,2024,January,Expense,Yes
+5006,06/01/2024,Savings,Debit,Entertainment,1139.24,Cash,7769.77,1,2024,January,Expense,Yes
+5007,07/01/2024,Credit,Credit,Groceries,300.07,Card,4423.23,1,2024,January,Income,No
+5008,08/01/2024,Current,Credit,Transport,1743.27,Bank Transfer,5220.49,1,2024,January,Income,Yes
+5009,09/01/2024,Credit,Debit,Groceries,127.11,Card,5718.12,1,2024,January,Expense,No
+5010,10/01/2024,Credit,Credit,Groceries,1407.48,Card,3909.06,1,2024,January,Income,Yes
+5011,11/01/2024,Credit,Debit,Transport,1637.08,Bank Transfer,5206.69,1,2024,January,Expense,Yes
+5012,12/01/2024,Credit,Debit,Salary,873.89,Card,4882.36,1,2024,January,Expense,No
+5013,13/01/2024,Savings,Debit,Entertainment,1780.68,Bank Transfer,7258.69,1,2024,January,Expense,Yes
+5014,14/01/2024,Credit,Debit,Rent,110.89,Card,840.85,1,2024,January,Expense,No
+5015,15/01/2024,Current,Debit,Utilities,131.3,Cash,2607.22,1,2024,January,Expense,No
+5016,16/01/2024,Savings,Debit,Rent,2471.35,Cash,7628.09,1,2024,January,Expense,Yes
+5017,17/01/2024,Current,Credit,Utilities,1093.37,Card,7176.98,1,2024,January,Income,Yes
+5018,18/01/2024,Current,Debit,Rent,398.64,Card,3917.43,1,2024,January,Expense,No
+5019,19/01/2024,Current,Debit,Transport,1576.28,Card,5150.99,1,2024,January,Expense,Yes
+5020,20/01/2024,Current,Credit,Entertainment,2314.58,Cash,2580.36,1,2024,January,Income,Yes
+5021,21/01/2024,Savings,Debit,Utilities,663.15,Card,1910.91,1,2024,January,Expense,No
+5022,22/01/2024,Savings,Debit,Shopping,1876.21,Cash,3977.74,1,2024,January,Expense,Yes
+5023,23/01/2024,Current,Credit,Salary,274.34,Bank Transfer,3150.14,1,2024,January,Income,No
+5024,24/01/2024,Current,Debit,Rent,174.01,Cash,4877.42,1,2024,January,Expense,No
+5025,25/01/2024,Savings,Debit,Rent,1603.44,Cash,1083.01,1,2024,January,Expense,Yes
+5026,26/01/2024,Savings,Debit,Utilities,1631.09,Bank Transfer,7807.96,1,2024,January,Expense,Yes
+5027,27/01/2024,Savings,Debit,Salary,1919.54,Cash,7896.58,1,2024,January,Expense,Yes
+5028,28/01/2024,Credit,Credit,Salary,2183.75,Card,5736.21,1,2024,January,Income,Yes
+5029,29/01/2024,Credit,Credit,Transport,2928.04,Card,4520.72,1,2024,January,Income,Yes
+5030,30/01/2024,Credit,Credit,Shopping,1558.58,Cash,2821.46,1,2024,January,Income,Yes
+5031,31/01/2024,Current,Credit,Transport,982.41,Card,6603.46,1,2024,January,Income,No
+5032,01/02/2024,Credit,Credit,Transport,2389.65,Cash,5635.48,2,2024,February,Income,Yes
+5033,02/02/2024,Current,Debit,Transport,827.08,Card,1719.63,2,2024,February,Expense,No
+5034,03/02/2024,Current,Credit,Transport,1328.13,Card,7331.95,2,2024,February,Income,Yes
+5035,04/02/2024,Credit,Debit,Transport,253.8,Cash,6669.03,2,2024,February,Expense,No
+5036,05/02/2024,Current,Credit,Entertainment,95.55,Card,7623.5,2,2024,February,Income,No
+5037,06/02/2024,Credit,Credit,Salary,2888.69,Cash,5942.9,2,2024,February,Income,Yes
+5038,07/02/2024,Credit,Debit,Transport,2511.22,Card,5100.61,2,2024,February,Expense,Yes
+5039,08/02/2024,Savings,Debit,Salary,2094,Card,3636.82,2,2024,February,Expense,Yes
+5040,09/02/2024,Credit,Debit,Salary,1238.68,Bank Transfer,7495.46,2,2024,February,Expense,Yes
+5041,10/02/2024,Savings,Debit,Groceries,536.42,Bank Transfer,6995.48,2,2024,February,Expense,No
+5042,11/02/2024,Credit,Credit,Entertainment,486.18,Cash,839.14,2,2024,February,Income,No
+5043,12/02/2024,Credit,Credit,Transport,765.72,Bank Transfer,697.75,2,2024,February,Income,No
+5044,13/02/2024,Savings,Debit,Rent,1656.7,Cash,3323.48,2,2024,February,Expense,Yes
+5045,14/02/2024,Savings,Debit,Utilities,2149.5,Bank Transfer,6579.15,2,2024,February,Expense,Yes
+5046,15/02/2024,Credit,Debit,Shopping,1987.39,Card,7904.57,2,2024,February,Expense,Yes
+5047,16/02/2024,Current,Debit,Rent,854.2,Cash,1628.13,2,2024,February,Expense,No
+5048,17/02/2024,Savings,Debit,Entertainment,2865.5,Cash,4955.98,2,2024,February,Expense,Yes
+5049,18/02/2024,Current,Debit,Utilities,2218.93,Card,3356.68,2,2024,February,Expense,Yes
+5050,19/02/2024,Current,Credit,Entertainment,1671.98,Cash,7774.36,2,2024,February,Income,Yes
+5051,20/02/2024,Current,Debit,Salary,1842.93,Cash,6815.89,2,2024,February,Expense,Yes
+5052,21/02/2024,Savings,Debit,Utilities,1270.41,Bank Transfer,6787.47,2,2024,February,Expense,Yes
+5053,22/02/2024,Current,Credit,Salary,758.24,Cash,4015.2,2,2024,February,Income,No
+5054,23/02/2024,Savings,Debit,Rent,1080.8,Card,3611.15,2,2024,February,Expense,Yes
+5055,24/02/2024,Current,Credit,Rent,2278.38,Bank Transfer,2550.55,2,2024,February,Income,Yes
+5056,25/02/2024,Credit,Credit,Utilities,62.89,Bank Transfer,922.82,2,2024,February,Income,No
+5057,26/02/2024,Credit,Debit,Utilities,365.9,Card,6985.42,2,2024,February,Expense,No
+5058,27/02/2024,Savings,Debit,Transport,157.09,Card,6596.76,2,2024,February,Expense,No
+5059,28/02/2024,Credit,Debit,Entertainment,141.37,Bank Transfer,7997.88,2,2024,February,Expense,No
+5060,29/02/2024,Credit,Debit,Transport,2569.27,Cash,7974.78,2,2024,February,Expense,Yes
+5061,01/03/2024,Current,Debit,Entertainment,2116.9,Bank Transfer,4665.74,3,2024,March,Expense,Yes
+5062,02/03/2024,Savings,Credit,Transport,1433.04,Card,6267.41,3,2024,March,Income,Yes
+5063,03/03/2024,Current,Debit,Salary,311.55,Bank Transfer,7585.74,3,2024,March,Expense,No
+5064,04/03/2024,Current,Debit,Utilities,1485.02,Card,6872.36,3,2024,March,Expense,Yes
+5065,05/03/2024,Current,Debit,Rent,1430.95,Bank Transfer,2355.11,3,2024,March,Expense,Yes
+5066,06/03/2024,Current,Credit,Entertainment,536.14,Cash,3879.08,3,2024,March,Income,No
+5067,07/03/2024,Current,Debit,Entertainment,1312.88,Bank Transfer,1468.7,3,2024,March,Expense,Yes
+5068,08/03/2024,Current,Debit,Rent,1207.54,Bank Transfer,7655.38,3,2024,March,Expense,Yes
+5069,09/03/2024,Current,Debit,Transport,1855.23,Card,5046.31,3,2024,March,Expense,Yes
+5070,10/03/2024,Savings,Credit,Entertainment,1912.58,Card,2214.82,3,2024,March,Income,Yes
+5071,11/03/2024,Credit,Debit,Shopping,155.01,Card,5537.76,3,2024,March,Expense,No
+5072,12/03/2024,Current,Credit,Salary,1136.35,Bank Transfer,5135.96,3,2024,March,Income,Yes
+5073,13/03/2024,Current,Credit,Utilities,1885.06,Cash,3186.22,3,2024,March,Income,Yes
+5074,14/03/2024,Current,Debit,Rent,1519.35,Card,1351.68,3,2024,March,Expense,Yes
+5075,15/03/2024,Current,Credit,Utilities,2572.34,Card,5536.8,3,2024,March,Income,Yes
+5076,16/03/2024,Current,Debit,Shopping,1982.91,Bank Transfer,4402.31,3,2024,March,Expense,Yes
+5077,17/03/2024,Current,Credit,Entertainment,505.54,Card,6292.39,3,2024,March,Income,No
+5078,18/03/2024,Credit,Credit,Entertainment,230.29,Cash,4401.23,3,2024,March,Income,No
+5079,19/03/2024,Credit,Debit,Shopping,1934.41,Cash,6891.36,3,2024,March,Expense,Yes
+5080,20/03/2024,Current,Debit,Rent,99,Card,4639.3,3,2024,March,Expense,No
+5081,21/03/2024,Credit,Credit,Salary,1765.61,Card,4707.03,3,2024,March,Income,Yes
+5082,22/03/2024,Savings,Debit,Groceries,2821.89,Bank Transfer,7074.9,3,2024,March,Expense,Yes
+5083,23/03/2024,Current,Debit,Rent,1734.91,Cash,3526.12,3,2024,March,Expense,Yes
+5084,24/03/2024,Savings,Debit,Groceries,1176.75,Cash,1505.11,3,2024,March,Expense,Yes
+5085,25/03/2024,Savings,Debit,Shopping,1937,Card,715.87,3,2024,March,Expense,Yes
+5086,26/03/2024,Current,Credit,Transport,1385.59,Bank Transfer,6163.53,3,2024,March,Income,Yes
+5087,27/03/2024,Credit,Debit,Groceries,1645.94,Cash,5152.32,3,2024,March,Expense,Yes
+5088,28/03/2024,Savings,Debit,Salary,2825.57,Cash,5780.6,3,2024,March,Expense,Yes
+5089,29/03/2024,Current,Debit,Transport,1170.59,Bank Transfer,2097.23,3,2024,March,Expense,Yes
+5090,30/03/2024,Savings,Credit,Groceries,2884.35,Bank Transfer,1522.79,3,2024,March,Income,Yes
+5091,31/03/2024,Savings,Debit,Shopping,2717.94,Cash,609.08,3,2024,March,Expense,Yes
+5092,01/04/2024,Savings,Credit,Transport,603.46,Cash,3129.41,4,2024,April,Income,No
+5093,02/04/2024,Savings,Debit,Shopping,226.7,Bank Transfer,4924.38,4,2024,April,Expense,No
+5094,03/04/2024,Credit,Credit,Groceries,320.32,Cash,3441.83,4,2024,April,Income,No
+5095,04/04/2024,Savings,Debit,Shopping,74.3,Card,3781.06,4,2024,April,Expense,No
+5096,05/04/2024,Savings,Debit,Salary,301.44,Card,7281.19,4,2024,April,Expense,No
+5097,06/04/2024,Savings,Debit,Groceries,2055.36,Bank Transfer,3111.92,4,2024,April,Expense,Yes
+5098,07/04/2024,Credit,Credit,Groceries,232.14,Bank Transfer,4354.92,4,2024,April,Income,No
+5099,08/04/2024,Savings,Credit,Groceries,970.55,Bank Transfer,6377.4,4,2024,April,Income,No
+5100,09/04/2024,Savings,Debit,Rent,2537.73,Card,3474.07,4,2024,April,Expense,Yes
+5101,10/04/2024,Credit,Credit,Rent,89.35,Cash,5165.65,4,2024,April,Income,No
+5102,11/04/2024,Credit,Credit,Rent,2447.12,Card,6967.73,4,2024,April,Income,Yes
+5103,12/04/2024,Credit,Debit,Salary,859.93,Cash,7621.4,4,2024,April,Expense,No
+5104,13/04/2024,Savings,Debit,Transport,372.13,Card,1603.05,4,2024,April,Expense,No
+5105,14/04/2024,Credit,Debit,Shopping,2096.28,Cash,7449.41,4,2024,April,Expense,Yes
+5106,15/04/2024,Credit,Debit,Entertainment,1894.25,Card,4190.87,4,2024,April,Expense,Yes
+5107,16/04/2024,Savings,Credit,Groceries,2634.87,Bank Transfer,2436.83,4,2024,April,Income,Yes
+5108,17/04/2024,Credit,Credit,Shopping,2210.51,Card,3943.52,4,2024,April,Income,Yes
+5109,18/04/2024,Savings,Credit,Groceries,2414.37,Cash,7850.24,4,2024,April,Income,Yes
+5110,19/04/2024,Current,Debit,Salary,860.46,Card,4194.64,4,2024,April,Expense,No
+5111,20/04/2024,Credit,Debit,Groceries,548.77,Card,2965.64,4,2024,April,Expense,No
+5112,21/04/2024,Current,Credit,Rent,2256.83,Card,5250.51,4,2024,April,Income,Yes
+5113,22/04/2024,Savings,Credit,Entertainment,2424.37,Bank Transfer,2301.09,4,2024,April,Income,Yes
+5114,23/04/2024,Credit,Credit,Utilities,2971.71,Card,1068.97,4,2024,April,Income,Yes
+5115,24/04/2024,Savings,Credit,Groceries,1249.6,Bank Transfer,1466.6,4,2024,April,Income,Yes
+5116,25/04/2024,Current,Credit,Shopping,1128.61,Bank Transfer,1460.34,4,2024,April,Income,Yes
+5117,26/04/2024,Savings,Debit,Rent,2333.71,Card,1639.27,4,2024,April,Expense,Yes
+5118,27/04/2024,Credit,Debit,Utilities,1035.59,Card,1541.2,4,2024,April,Expense,Yes
+5119,28/04/2024,Credit,Credit,Entertainment,2793.66,Card,5306.56,4,2024,April,Income,Yes
+5120,29/04/2024,Current,Credit,Utilities,2578.07,Cash,1864.1,4,2024,April,Income,Yes
