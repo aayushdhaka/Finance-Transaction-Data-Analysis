@@ -37,6 +37,13 @@ The dataset contains simulated financial transactions with the following attribu
 
 ---
 
+## 📓 Jupyter Notebook
+The notebook `Finance_Transaction_Analysis.ipynb` contains:
+- Data loading and validation
+- Feature engineering (Month, Year, Cash Flow)
+- Income vs Expense calculations
+- KPI computation (Total Income, Total Expense, Net Balance)
+
 ## 📊 Key Insights
 - A small number of categories contribute to a large portion of total expenses.
 - High-value transactions account for a significant share of total spending.
